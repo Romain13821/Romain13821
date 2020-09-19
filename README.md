@@ -1,16 +1,14 @@
-### Hi there 👋
+# The boy whose the links with emojis in it
+- 🏳️ | Country • France
+- 💻 | Languages • Lua, C++
+- 🌐 | Website • <a title="romain13821.me" href="http://romain13821.me"> romain13821.me</a>
+- 🎮 | Steam • <a title="Romain13821" href="https://steamcommunity.com/id/romain13821"> Romain13821</a>
+- 📧 | Discord • Romain13821#0809
 
-<!--
-**Romain13821/Romain13821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Incomming Project:
+- RM's suite 
+- Music Streaming app
+- Some glua addons for Garry's Mod <br>
+<hr>
+<p align="center"><a href="http://romain13821.me"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=romain13821&show_icons=true&theme=tokyonight&bg_color=fff0"></a>
+<a href="http://romain13821.me"><img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romain13821&layout=compact&theme=tokyonight&bg_color=fff0"></a></p>
